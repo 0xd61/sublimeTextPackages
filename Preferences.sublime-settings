@@ -13,4 +13,5 @@
 	"spell_check": false,
 	"vintage_start_in_command_mode": true, 
 	"vintage_use_clipboard": true ,
+	"translate_tabs_to_spaces": true,
 }
