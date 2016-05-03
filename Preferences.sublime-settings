@@ -2,15 +2,15 @@
 	"added_words":
 	[
 		"evtl",
-		"etc",
-		"Glinka"
+		"etc"
 	],
 	"color_scheme": "Packages/User/Colorscheme/1337.tmTheme",
-	"dictionary": "Packages/Language - English/en_US.dic",
+	"dictionary": "Packages/Dictionaries/German_de_DE.dic",
 	"font_size": 16,
 	"ignored_packages":
 	[
-		"Vintage"
 	],
-	"spell_check": false
+	"spell_check": false,
+	"vintage_start_in_command_mode": true, 
+	"vintage_use_clipboard": true ,
 }
