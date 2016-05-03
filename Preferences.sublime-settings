@@ -1,0 +1,16 @@
+{
+	"added_words":
+	[
+		"evtl",
+		"etc",
+		"Glinka"
+	],
+	"color_scheme": "Packages/User/Colorscheme/1337.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"spell_check": false
+}
