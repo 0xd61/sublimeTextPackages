@@ -4,14 +4,16 @@
 		"evtl",
 		"etc"
 	],
-	"color_scheme": "Packages/User/Colorscheme/1337.tmTheme",
+	"color_scheme": "Packages/Colorsublime - Themes/KyzDark.tmTheme",
 	"dictionary": "Packages/Dictionaries/German_de_DE.dic",
 	"font_size": 16,
 	"ignored_packages":
 	[
+		"Vintage"
 	],
 	"spell_check": false,
-	"vintage_start_in_command_mode": true, 
-	"vintage_use_clipboard": true ,
 	"translate_tabs_to_spaces": true,
+	//"vintage_start_in_command_mode": true,
+	//"vintage_use_clipboard": true,
+	"vintageous_enable_cmdline_mode": true
 }
