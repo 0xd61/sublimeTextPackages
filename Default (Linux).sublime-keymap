@@ -1,4 +1,5 @@
 [
 	{ "keys": ["ctrl+shift+o"], "command": "prompt_add_folder" },
     { "keys": ["ctrl+shift+q"], "command": "close_folder_list" },
+    { "keys": ["ctrl+shift+v"], "command": "bh_toggle_high_visibility"},
 ]

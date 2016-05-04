@@ -6,6 +6,7 @@
 	"installed_packages":
 	[
 		"BeautifyRust",
+		"BracketHighlighter",
 		"Colorsublime",
 		"Dictionaries",
 		"FileDiffs",
