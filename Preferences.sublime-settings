@@ -12,8 +12,7 @@
 		"Vintage"
 	],
 	"spell_check": false,
+	"theme": "Soda Dark 3.sublime-theme",
 	"translate_tabs_to_spaces": true,
-	//"vintage_start_in_command_mode": true,
-	//"vintage_use_clipboard": true,
 	"vintageous_enable_cmdline_mode": true
 }
